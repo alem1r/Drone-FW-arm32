@@ -1,0 +1,2 @@
+../Src/joystick.c:55:6:MSP_SetPID_Callback	1
+../Src/joystick.c:109:6:MSP_SetRawRC_Callback	6

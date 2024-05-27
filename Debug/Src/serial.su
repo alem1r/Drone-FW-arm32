@@ -1,0 +1,9 @@
+../Src/serial.c:32:5:serialAvailable	8	static
+../Src/serial.c:44:6:serialWrite	8	static
+../Src/serial.c:59:15:serialRead	16	static
+../Src/serial.c:73:6:HAL_UART_RxCpltCallback	8	static
+../Src/serial.c:94:6:serialFlush	8	static
+../Src/serial.c:106:6:serialBegin	8	static
+../Src/serial.c:119:6:serialPrint	16	static
+../Src/serial.c:132:6:serialInt	8	static
+../Src/serial.c:145:6:serialFloat	32	static

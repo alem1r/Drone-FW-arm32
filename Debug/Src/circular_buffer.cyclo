@@ -1,0 +1,4 @@
+../Src/circular_buffer.c:20:5:CB_Write	1
+../Src/circular_buffer.c:45:5:CB_Read	2
+../Src/circular_buffer.c:70:10:CB_Size	1
+../Src/circular_buffer.c:82:6:CB_Init	2

@@ -1,0 +1,5 @@
+../Src/pid.c:92:13:PID_Compute	24	static
+../Src/pid.c:166:6:PID_SetGains	0	static
+../Src/pid.c:215:6:PID_Init	12	static
+../Src/pid.c:273:6:PID_UpdateAltitude	8	static
+../Src/pid.c:304:6:PID_Update	16	static

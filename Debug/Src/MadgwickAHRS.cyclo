@@ -1,0 +1,3 @@
+../Src/MadgwickAHRS.c:16:6:MadgwickSetBeta	1
+../Src/MadgwickAHRS.c:28:6:MadgwickSetDelta	1
+../Src/MadgwickAHRS.c:51:6:MadgwickQuaternionUpdate	3

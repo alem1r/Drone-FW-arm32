@@ -1,0 +1,7 @@
+../Src/MS5611.c:137:17:MS5611_ReadADC	24	static
+../Src/MS5611.c:328:7:MS5611_GetTemperature	0	static
+../Src/MS5611.c:340:7:MS5611_GetPressure	0	static
+../Src/MS5611.c:352:7:MS5611_GetAltitude	0	static
+../Src/MS5611.c:364:7:MS5611_GetFilteredAltitude	0	static
+../Src/MS5611.c:377:6:MS5611_Update	16	static
+../Src/MS5611.c:434:6:MS5611_Init	40	static

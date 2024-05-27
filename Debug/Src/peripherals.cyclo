@@ -1,0 +1,3 @@
+../Src/peripherals.c:406:6:_Error_Handler	1
+../Src/peripherals.c:46:6:SystemClock_Config	1
+../Src/peripherals.c:384:6:Peripherals_Init	1

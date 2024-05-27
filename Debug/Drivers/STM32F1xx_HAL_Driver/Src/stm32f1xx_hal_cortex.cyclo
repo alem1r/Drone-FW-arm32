@@ -1,0 +1,15 @@
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:183:6:HAL_NVIC_SetPriorityGrouping	1
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:205:6:HAL_NVIC_SetPriority	3
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:227:6:HAL_NVIC_EnableIRQ	1
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:243:6:HAL_NVIC_DisableIRQ	1
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:257:6:HAL_NVIC_SystemReset	1
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:270:10:HAL_SYSTICK_Config	2
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:345:10:HAL_NVIC_GetPriorityGrouping	1
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:372:6:HAL_NVIC_GetPriority	3
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:387:6:HAL_NVIC_SetPendingIRQ	1
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:402:10:HAL_NVIC_GetPendingIRQ	1
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:415:6:HAL_NVIC_ClearPendingIRQ	1
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:429:10:HAL_NVIC_GetActive	1
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:443:6:HAL_SYSTICK_CLKSourceConfig	2
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:470:13:HAL_SYSTICK_Callback	1
+../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c:461:6:HAL_SYSTICK_IRQHandler	1

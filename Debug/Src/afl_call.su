@@ -1,0 +1,2 @@
+../Src/afl_call.c:5:34:aflCall	0	static,ignoring_inline_asm
+../Src/afl_call.c:15:5:startForkserver	8	static
